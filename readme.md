@@ -41,3 +41,9 @@
 - NOI竞赛工具
 
 ### [《经典》UVa题目判题速度以及数据问题看这里!](misc/UVaTips.md)
+
+- 冬令营历年题目和数据]
+- 冬令营历年题目和数
+
+
+-book info https://book.douban.com/subject/25902102/
